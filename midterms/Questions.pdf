@@ -1,0 +1,285 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/PageLabels 12 0 R /PageMode /UseNone /Pages 9 0 R /Type /Catalog
+>>
+endobj
+8 0 obj
+<<
+/Author () /CreationDate (D:20210503134840+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210503134840+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False
+>>
+endobj
+9 0 obj
+<<
+/Count 2 /Kids [ 4 0 R 6 0 R ] /Type /Pages
+>>
+endobj
+10 0 obj
+<<
+/Length 6216
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 736.6772 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 706.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .942988 Tw (My own question: I think that, AOS should be faster than COO, but it turns out it's only faster when the) Tj T* 0 Tw (matrix is small.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 676.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .446654 Tw (When the matrix is small, the memory locality of AOS is greater, because the indices, and the values are) Tj T* 0 Tw (packed together inside a tuple.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 646.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .45104 Tw (The best explanation I can come up for a slower performance on AOS matrix vec is because of the extra) Tj T* 0 Tw (memory overhead created by the tuple data type. Which needs more scrutinization.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 618.3307 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 576.3307 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.611318 Tw (1. How does the performance \(in GFLOP/s\) for sparse-matrix by vector product compare to what you) Tj T* 0 Tw 1.686136 Tw (previously achieved for dense-matrix by dense-matrix product? Explain, and quantify if you can, \(e.g.,) Tj T* 0 Tw (using the roofline model\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 558.3307 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The performance is way less compare to results obtained for dense matrix multipliction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 540.3307 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The best performance is ) Tj /F2 10 Tf (4.44748) Tj /F1 10 Tf ( GFLOPs/s, coming from CSR and CSC^T matrix vector multiplication.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 486.3307 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL -0.041512 Tw (Sparse matrix multiplication has memory usage of around O\(N*l\) where N is the size of the row and l is the) Tj T* 0 Tw .74436 Tw (maximum number of elements in that row. The computations needs to compute on all the double, which) Tj T* 0 Tw 2.385814 Tw (suggest lower memory locality compare to the dense matrix multiplication, decreasing the numerical) Tj T* 0 Tw (intensity of the sparse matrix vector algorithm.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 456.3307 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .831751 Tw (The sparse Matrix Vec has one int for indexing, 3 doubles for matrix vector multiplication, and 2 floating) Tj T* 0 Tw (point operations inside the for loop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 414.3307 cm
+q
+BT 1 0 0 1 0 26 Tm .150697 Tw 12 TL /F1 10 Tf 0 0 0 rg (Which is ) Tj /F2 10 Tf (2/\(24+4\)) Tj ( ) Tj (flops/byte) Tj /F1 10 Tf (, 1/14. For dense matrix vector algorithm, it's ) Tj /F2 10 Tf (1/4) Tj ( ) Tj (flops/byte) Tj /F1 10 Tf (. I look) Tj T* 0 Tw .480941 Tw (back to PS4, and it suggests that a perfect use of L1 should get us to ) Tj /F2 10 Tf (6) Tj ( ) Tj (flops/s) Tj /F1 10 Tf (. And for dense matrix) Tj T* 0 Tw (vector it should be capped at ) Tj /F2 10 Tf (47.2) Tj ( ) Tj (Gflops/s) Tj /F1 10 Tf ( if L1 is used perfectly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.3307 cm
+q
+BT 1 0 0 1 0 26 Tm 1.498651 Tw 12 TL /F1 10 Tf 0 0 0 rg (I make the statement that dense matrix vec is ) Tj /F2 10 Tf (1/4) Tj ( ) Tj (Flops/bytes) Tj /F1 10 Tf ( because, not counting the running) Tj T* 0 Tw 1.447209 Tw (index, there are ) Tj /F2 10 Tf (\(2N^2\)) Tj /F1 10 Tf ( flops in total and there are ) Tj /F2 10 Tf (8*\(N^2) Tj ( ) Tj (+) Tj ( ) Tj (N\)) Tj /F1 10 Tf ( bytes in total. Dividing then gives) Tj T* 0 Tw (something slightly less than ) Tj /F2 10 Tf (1/4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 343.9843 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 301.9843 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .654983 Tw (2. Referring to the roofline model and the sparse matrix-vector and dense matrix-matrix algorithms, what) Tj T* 0 Tw .639985 Tw (performance ratio would you theoretically expect to see if neither algorithm was able to obtain any reuse) Tj T* 0 Tw (from cache?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 271.9843 cm
+q
+BT 1 0 0 1 0 14 Tm .452619 Tw 12 TL /F1 10 Tf 0 0 0 rg (I took a look at the roofline graph from PS4, if make use of DRAM, then ) Tj /F2 10 Tf (1/14) Tj ( ) Tj (flops/byte) Tj /F1 10 Tf ( should give) Tj T* 0 Tw (around ) Tj /F2 10 Tf (1.1) Tj /F1 10 Tf ( flops/sec.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 241.9843 cm
+q
+BT 1 0 0 1 0 14 Tm 1.077126 Tw 12 TL /F1 10 Tf 0 0 0 rg (The dense matrix vector mulptication is about ) Tj /F2 10 Tf (\(1/4\)*14) Tj /F1 10 Tf ( times more intense compare to sparse matrix) Tj T* 0 Tw (vector multiplication. Which suggest 2 times more performance, if no cache reuse.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 213.6378 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 183.6378 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.797318 Tw (3. How does the performance \(in GFLOP/s\) for sparse-matrix by vector product for COO compare to) Tj T* 0 Tw (CSR? Explain, and quantify if you can, \(e.g., using the roofline model\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.6378 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (COO and CSR asymptoptically approaches the same Gflops as the size ) Tj /F2 10 Tf (N) Tj /F1 10 Tf ( increases.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 147.6378 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (COO produces ) Tj /F2 10 Tf (2.24873) Tj /F1 10 Tf ( flops and CSR produces ) Tj /F2 10 Tf (4.44748) Tj /F1 10 Tf ( at ) Tj /F2 10 Tf (N) Tj ( ) Tj (=) Tj ( ) Tj (64) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 129.6378 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (CSR is 2 times faster because it has higher numerical intensity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 99.6378 cm
+q
+BT 1 0 0 1 0 14 Tm 1.312485 Tw 12 TL /F1 10 Tf 0 0 0 rg (It hoisted the ) Tj /F2 10 Tf (column_nums_) Tj /F1 10 Tf ( out of the fastest running for loop, reducing the number of floats double) Tj T* 0 Tw (during the computation from 3, to 2.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 81.6378 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Therefore the numerical intensity will be given as: ) Tj /F2 10 Tf (2/16) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (1/8) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+11 0 obj
+<<
+/Length 1252
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (However it turns out to be an under estimate on the speed improvement but close nonetheless.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 724.6772 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 670.6772 cm
+q
+BT 1 0 0 1 0 38 Tm .617126 Tw 12 TL /F1 10 Tf 0 0 0 rg (4. How does the performance \(in GFLOP/s\) for sparse-matrix by dense matrix product \() Tj /F3 10 Tf (SPMM) Tj /F1 10 Tf (\) compare) Tj T* 0 Tw .224985 Tw (to sparse-matrix by vector product \() Tj /F3 10 Tf (SPMV) Tj /F1 10 Tf (\)? The performance for SPMM should be about the same as for) Tj T* 0 Tw 1.063876 Tw (SPMV in the case of a 1 column dense matrix. What is the trend with increasing numbers of columns?) Tj T* 0 Tw (Explain, and quantify if you can, using the roofline model.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 628.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .19061 Tw (How does the performance of sparse matrix by dense matrix product \(in GFLOP/s\) compare to the results) Tj T* 0 Tw .497318 Tw (you got dense matrix-matrix product in previous assignments? Explain, and quantify if you can, using the) Tj T* 0 Tw (roofline model.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+12 0 obj
+<<
+/Nums [ 0 13 0 R 1 14 0 R ]
+>>
+endobj
+13 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+14 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000336 00000 n 
+0000000540 00000 n 
+0000000652 00000 n 
+0000000856 00000 n 
+0000000943 00000 n 
+0000001200 00000 n 
+0000001265 00000 n 
+0000007533 00000 n 
+0000008837 00000 n 
+0000008887 00000 n 
+0000008921 00000 n 
+trailer
+<<
+/ID 
+[<f27584eb13cf5203e24f887d5d1f9ddf><f27584eb13cf5203e24f887d5d1f9ddf>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 8 0 R
+/Root 7 0 R
+/Size 15
+>>
+startxref
+8955
+%%EOF

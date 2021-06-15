@@ -1,0 +1,25 @@
+[2021-06-02 23:54:58.451] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-06-02 23:54:58.451] [remoteagent] [info] Extension host agent started.
+[2021-06-02 23:54:58.609] [remoteagent] [info] [::ffff:127.0.0.1][4bc458cc][ManagementConnection] New connection established.
+[2021-06-02 23:54:58.610] [remoteagent] [info] [::ffff:127.0.0.1][00cb43db][ExtensionHostConnection] New connection established.
+[2021-06-02 23:54:58.915] [remoteagent] [info] [::ffff:127.0.0.1][00cb43db][ExtensionHostConnection] <187> Launched Extension Host Process.
+[2021-06-02 23:55:05.469] [remoteagent] [info] [::ffff:127.0.0.1][4bc458cc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-06-02 23:55:06.485] [remoteagent] [info] [::ffff:127.0.0.1][00cb43db][ExtensionHostConnection] <187> Extension Host Process exited with code: 0, signal: null.
+[2021-06-02 23:55:06.486] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-06-02 23:55:06.701] [remoteagent] [info] [::ffff:127.0.0.1][2f32e765][ManagementConnection] New connection established.
+[2021-06-02 23:55:06.866] [remoteagent] [info] [::ffff:127.0.0.1][4c227619][ExtensionHostConnection] New connection established.
+[2021-06-02 23:55:06.883] [remoteagent] [info] [::ffff:127.0.0.1][4c227619][ExtensionHostConnection] <220> Launched Extension Host Process.
+[2021-06-03 00:00:06.487] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-06-03 04:09:49.612] [remoteagent] [info] [::ffff:127.0.0.1][4c227619][ExtensionHostConnection] <220> Extension Host Process exited with code: 0, signal: null.
+[2021-06-03 04:09:49.612] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-06-03 09:58:31.196] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-03 09:58:31.197] [remoteagent] [info] Last EH closed, shutting down

@@ -1,0 +1,349 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Outlines 9 0 R /PageLabels 14 0 R /PageMode /UseNone /Pages 12 0 R /Type /Catalog
+>>
+endobj
+8 0 obj
+<<
+/Author () /CreationDate (D:20210411214908+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210411214908+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (PS2 Questions) /Trapped /False
+>>
+endobj
+9 0 obj
+<<
+/Count 2 /First 10 0 R /Last 11 0 R /Type /Outlines
+>>
+endobj
+10 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 695.0236 0 ] /Next 11 0 R /Parent 9 0 R /Title (Inner Product)
+>>
+endobj
+11 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 596.0236 0 ] /Parent 9 0 R /Prev 10 0 R /Title (Tensors)
+>>
+endobj
+12 0 obj
+<<
+/Count 1 /Kids [ 6 0 R ] /Type /Pages
+>>
+endobj
+13 0 obj
+<<
+/Length 6147
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 164.3649 0 Td (PS2 Questions) Tj T* -164.3649 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 707.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .676488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Add your answers to this file in plain text after each question. Leave a blank line between the text of the) Tj T* 0 Tw (question and the text of your answer and at least two lines between your answer and the next question.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 674.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Inner Product) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
+Q
+q
+1 0 0 1 62.69291 650.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 89.48 0 18 12 re f*
+.960784 .960784 .862745 rg
+n 170.28 0 48 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (How would you use ) Tj /F3 10 Tf (dot) Tj /F1 10 Tf ( to implement ) Tj /F3 10 Tf (two_norm) Tj /F1 10 Tf (?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 650.0236 cm
+Q
+q
+1 0 0 1 62.69291 644.0236 cm
+Q
+q
+1 0 0 1 62.69291 644.0236 cm
+Q
+q
+1 0 0 1 62.69291 608.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 52.92942 24 66 12 re f*
+.960784 .960784 .862745 rg
+n 118.9294 24 6.727356 12 re f*
+.960784 .960784 .862745 rg
+n 125.6568 24 18 12 re f*
+.960784 .960784 .862745 rg
+n 177.9015 24 6 12 re f*
+BT 1 0 0 1 0 26 Tm .727356 Tw 12 TL /F1 10 Tf 0 0 0 rg (I ues it like ) Tj /F3 10 Tf (sqrt\(dot\(x,) Tj ( ) Tj (x\)\)) Tj /F1 10 Tf ( where ) Tj /F3 10 Tf (x) Tj /F1 10 Tf ( is the input vector for the norm function. It's also better to) Tj T* 0 Tw .086303 Tw (add a proto proto func ) Tj /F4 10 Tf (double dot\(Vector) Tj (&) Tj (, Vector) Tj (&) Tj (\)) Tj /F1 10 Tf ( at the start of file so we can use the function ) Tj /F4 10 Tf (dot) Tj /F1 10 Tf  T* 0 Tw (after that line.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 608.0236 cm
+Q
+q
+1 0 0 1 62.69291 575.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Tensors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 563.0236 cm
+Q
+q
+1 0 0 1 62.69291 563.0236 cm
+Q
+q
+1 0 0 1 62.69291 527.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .239398 Tw (What is the formula that we would use for indexing if we wanted "slab-major" ordering? Hint: What is) Tj T* 0 Tw .110391 Tw (the size of a slab? It might be helpful to draw a picture of the data in 3D and see what the size is of a) Tj T* 0 Tw (slab.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 527.0236 cm
+Q
+q
+1 0 0 1 62.69291 521.0236 cm
+Q
+q
+1 0 0 1 62.69291 521.0236 cm
+Q
+q
+1 0 0 1 62.69291 449.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 350.1182 12 30 12 re f*
+.960784 .960784 .862745 rg
+n 380.1182 12 6.997882 12 re f*
+.960784 .960784 .862745 rg
+n 387.1161 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 393.1161 12 6.997882 12 re f*
+.960784 .960784 .862745 rg
+n 400.114 12 18 12 re f*
+.960784 .960784 .862745 rg
+n 418.114 12 6.997882 12 re f*
+.960784 .960784 .862745 rg
+n 425.1119 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 431.1119 12 6.997882 12 re f*
+.960784 .960784 .862745 rg
+n 438.1098 12 6 12 re f*
+BT 1 0 0 1 0 62 Tm 1.35811 Tw 12 TL /F1 10 Tf 0 0 0 rg (A row major indexing strategies were used for matrix, and elements of the same rows are stored) Tj T* 0 Tw .43332 Tw (together in the memory. In the case of slab major indexing, all the elements stored in the same slab) Tj T* 0 Tw .688221 Tw (be in the sequential memory in RAM. So when we do memory addressing, we enter slab, and then) Tj T* 0 Tw 2.189985 Tw (the rows, and the columns. Let k, m, n denotes the shape in\(Number of elements\) ) Tj /F4 10 Tf (slab, rows,) Tj T* 0 Tw .997882 Tw (columns) Tj /F1 10 Tf (, let \(i, j, k\) be the indexer inputs, then the indexing strategy will be: ) Tj /F3 10 Tf (k*m*n) Tj ( ) Tj (+) Tj ( ) Tj (j*m) Tj ( ) Tj (+) Tj ( ) Tj (i) Tj /F1 10 Tf (.) Tj T* 0 Tw (This goes to the k th page \(or slab\) and then the ith row and the j th column of the tensor.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 449.0236 cm
+Q
+q
+1 0 0 1 62.69291 443.0236 cm
+Q
+q
+1 0 0 1 62.69291 443.0236 cm
+Q
+q
+1 0 0 1 62.69291 419.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .789398 Tw (\(Extra credit.\) I claim that there are six distinct indexing formulas. Show that this claim is correct or) Tj T* 0 Tw (that it is incorrect.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 419.0236 cm
+Q
+q
+1 0 0 1 62.69291 413.0236 cm
+Q
+q
+1 0 0 1 62.69291 413.0236 cm
+Q
+q
+1 0 0 1 62.69291 365.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm .623828 Tw 12 TL /F1 10 Tf 0 0 0 rg (It's correct because every unique permutations of 3 elements corresponds to an indexing strategies) Tj T* 0 Tw .279989 Tw (for the tensor. And in general, the way to index a n dimensional tensor will be ) Tj /F4 10 Tf (n!) Tj /F1 10 Tf (, which is a lot. Let's) Tj T* 0 Tw .463323 Tw (count all of them in the case of a tensor: ) Tj /F4 10 Tf (page -) Tj (> row -) Tj (> col) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (page -) Tj (> col -) Tj (> row) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (row -) Tj (> page -) Tj (> col) Tj /F1 10 Tf (,) Tj T* 0 Tw /F4 10 Tf (row -) Tj (> col -) Tj (> page) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (col -) Tj (> row -) Tj (> page) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (col -) Tj (> page -) Tj (> row) Tj /F1 10 Tf (, six of them in total.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 365.0236 cm
+Q
+ 
+endstream
+endobj
+14 0 obj
+<<
+/Nums [ 0 15 0 R ]
+>>
+endobj
+15 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000073 00000 n 
+0000000134 00000 n 
+0000000241 00000 n 
+0000000353 00000 n 
+0000000458 00000 n 
+0000000573 00000 n 
+0000000778 00000 n 
+0000000882 00000 n 
+0000001152 00000 n 
+0000001225 00000 n 
+0000001338 00000 n 
+0000001445 00000 n 
+0000001505 00000 n 
+0000007704 00000 n 
+0000007745 00000 n 
+trailer
+<<
+/ID 
+[<74dfd97c4723f1ca37baae6e59a95303><74dfd97c4723f1ca37baae6e59a95303>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 8 0 R
+/Root 7 0 R
+/Size 16
+>>
+startxref
+7779
+%%EOF

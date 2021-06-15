@@ -1,0 +1,24 @@
+[2021-06-03 09:59:41.682] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-06-03 09:59:41.682] [remoteagent] [info] Extension host agent started.
+[2021-06-03 09:59:42.858] [remoteagent] [info] [::ffff:127.0.0.1][b76849ef][ManagementConnection] New connection established.
+[2021-06-03 09:59:42.859] [remoteagent] [info] [::ffff:127.0.0.1][105787e4][ExtensionHostConnection] New connection established.
+[2021-06-03 09:59:44.250] [remoteagent] [info] [::ffff:127.0.0.1][105787e4][ExtensionHostConnection] <83> Launched Extension Host Process.
+[2021-06-03 13:22:10.858] [remoteagent] [info] [::ffff:127.0.0.1][b76849ef][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-06-03 13:22:11.872] [remoteagent] [info] [::ffff:127.0.0.1][105787e4][ExtensionHostConnection] <83> Extension Host Process exited with code: 0, signal: null.
+[2021-06-03 13:22:11.872] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-06-03 13:22:12.104] [remoteagent] [info] [::ffff:127.0.0.1][daf7b2eb][ManagementConnection] New connection established.
+[2021-06-03 13:22:12.161] [remoteagent] [info] [::ffff:127.0.0.1][c79bae33][ExtensionHostConnection] New connection established.
+[2021-06-03 13:22:12.179] [remoteagent] [info] [::ffff:127.0.0.1][c79bae33][ExtensionHostConnection] <173> Launched Extension Host Process.
+[2021-06-03 13:23:28.647] [remoteagent] [info] [::ffff:127.0.0.1][daf7b2eb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-06-03 13:23:29.668] [remoteagent] [info] [::ffff:127.0.0.1][c79bae33][ExtensionHostConnection] <173> Extension Host Process exited with code: 0, signal: null.
+[2021-06-03 13:23:29.668] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-06-03 13:23:29.668] [remoteagent] [info] Last EH closed, waiting before shutting down

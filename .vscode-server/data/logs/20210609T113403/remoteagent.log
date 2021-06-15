@@ -1,0 +1,25 @@
+[2021-06-09 11:34:03.356] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-06-09 11:34:03.356] [remoteagent] [info] Extension host agent started.
+[2021-06-09 11:34:03.560] [remoteagent] [info] [::ffff:127.0.0.1][d63c4e16][ManagementConnection] New connection established.
+[2021-06-09 11:34:03.561] [remoteagent] [info] [::ffff:127.0.0.1][429e7c01][ExtensionHostConnection] New connection established.
+[2021-06-09 11:34:04.785] [remoteagent] [info] [::ffff:127.0.0.1][429e7c01][ExtensionHostConnection] <83> Launched Extension Host Process.
+[2021-06-09 19:56:09.378] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-09 19:56:09.383] [remoteagent] [info] [::ffff:127.0.0.1][d63c4e16][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-06-09 19:56:15.661] [remoteagent] [info] [::ffff:127.0.0.1][d63c4e16][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-06-09 19:56:15.662] [remoteagent] [info] [::ffff:127.0.0.1][429e7c01][ExtensionHostConnection] The client has reconnected.
+[2021-06-09 19:56:15.675] [remoteagent] [info] [::ffff:127.0.0.1][d63c4e16][ManagementConnection] The client has reconnected.
+[2021-06-10 03:19:43.468] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-10 03:19:43.470] [remoteagent] [info] [::ffff:127.0.0.1][d63c4e16][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-06-10 03:19:43.682] [remoteagent] [info] [::ffff:127.0.0.1][429e7c01][ExtensionHostConnection] <83> Extension Host Process exited with code: 0, signal: null.
+[2021-06-10 03:19:43.684] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-06-10 11:08:56.946] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-10 11:08:57.446] [remoteagent] [info] Last EH closed, shutting down

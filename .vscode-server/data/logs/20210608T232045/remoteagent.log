@@ -1,0 +1,37 @@
+[2021-06-08 23:20:46.222] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-06-08 23:20:46.222] [remoteagent] [info] Extension host agent started.
+[2021-06-08 23:20:47.101] [remoteagent] [info] [::ffff:127.0.0.1][43a8f569][ManagementConnection] New connection established.
+[2021-06-08 23:20:47.103] [remoteagent] [info] [::ffff:127.0.0.1][0a3b559a][ExtensionHostConnection] New connection established.
+[2021-06-08 23:20:48.691] [remoteagent] [info] [::ffff:127.0.0.1][0a3b559a][ExtensionHostConnection] <88> Launched Extension Host Process.
+[2021-06-08 23:25:25.260] [remoteagent] [info] [::ffff:127.0.0.1][43a8f569][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-06-08 23:25:26.274] [remoteagent] [info] [::ffff:127.0.0.1][0a3b559a][ExtensionHostConnection] <88> Extension Host Process exited with code: 0, signal: null.
+[2021-06-08 23:25:26.275] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-06-08 23:25:26.599] [remoteagent] [info] [::ffff:127.0.0.1][9bc4ee8a][ManagementConnection] New connection established.
+[2021-06-08 23:25:26.797] [remoteagent] [info] [::ffff:127.0.0.1][c8940598][ExtensionHostConnection] New connection established.
+[2021-06-08 23:25:26.942] [remoteagent] [info] [::ffff:127.0.0.1][c8940598][ExtensionHostConnection] <207> Launched Extension Host Process.
+[2021-06-08 23:30:26.276] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-06-09 01:02:27.620] [remoteagent] [info] [::ffff:127.0.0.1][9bc4ee8a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-06-09 01:02:28.112] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-09 01:02:31.298] [remoteagent] [info] [::ffff:127.0.0.1][9bc4ee8a][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-06-09 01:02:31.298] [remoteagent] [info] [::ffff:127.0.0.1][c8940598][ExtensionHostConnection] The client has reconnected.
+[2021-06-09 01:02:31.308] [remoteagent] [info] [::ffff:127.0.0.1][9bc4ee8a][ManagementConnection] The client has reconnected.
+[2021-06-09 01:21:17.208] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-09 01:21:17.354] [remoteagent] [info] [::ffff:127.0.0.1][9bc4ee8a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-06-09 01:21:23.910] [remoteagent] [info] [::ffff:127.0.0.1][9bc4ee8a][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-06-09 01:21:23.911] [remoteagent] [info] [::ffff:127.0.0.1][9bc4ee8a][ManagementConnection] The client has reconnected.
+[2021-06-09 01:21:23.933] [remoteagent] [info] [::ffff:127.0.0.1][c8940598][ExtensionHostConnection] The client has reconnected.
+[2021-06-09 04:33:20.028] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-09 04:33:20.030] [remoteagent] [info] [::ffff:127.0.0.1][9bc4ee8a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-06-09 04:33:21.469] [remoteagent] [info] [::ffff:127.0.0.1][c8940598][ExtensionHostConnection] <207> Extension Host Process exited with code: 0, signal: null.
+[2021-06-09 04:33:21.469] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-06-09 10:56:11.889] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-09 10:56:11.889] [remoteagent] [info] Last EH closed, shutting down

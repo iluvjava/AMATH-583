@@ -1,0 +1,8 @@
+threads=1 n=5000
+# Face size 55 x 45
+# Reading small.bin
+# elapsed time [read_file]: 126 ms
+# elapsed time [compute_mean]: 14 ms
+# elapsed time [compute_shifted]: 12 ms
+# elapsed time [compute_covariance]: 24476 ms
+# Gflops/s = 2.50271

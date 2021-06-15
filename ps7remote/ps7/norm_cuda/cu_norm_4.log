@@ -1,0 +1,5 @@
+# elapsed time [cuda_malloc]: 1316 ms
+# elapsed time [cuda_call]: 31 ms
+ans 2.09715e+06 2.09715e+06
+# gflops / sec [ dot0 ]: 54.1201
+# elapsed time [cuda_free]: 0 ms

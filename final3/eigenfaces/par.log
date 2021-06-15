@@ -1,0 +1,72 @@
+threads=20 n=5000
+# Face size 55 x 45
+# Reading small.bin
+# elapsed time [read_file]: 87 ms
+# elapsed time [compute_mean]: 10 ms
+# elapsed time [compute_shifted]: 8 ms
+# elapsed time [compute_covariance]: 6670 ms
+# Gflops/s = 9.18385
+threads=10 n=5000
+# Face size 55 x 45
+# Reading small.bin
+# elapsed time [read_file]: 111 ms
+# elapsed time [compute_mean]: 10 ms
+# elapsed time [compute_shifted]: 8 ms
+# elapsed time [compute_covariance]: 6348 ms
+# Gflops/s = 9.64969
+threads=5 n=5000
+# Face size 55 x 45
+# Reading small.bin
+# elapsed time [read_file]: 108 ms
+# elapsed time [compute_mean]: 15 ms
+# elapsed time [compute_shifted]: 15 ms
+# elapsed time [compute_covariance]: 14722 ms
+# Gflops/s = 4.16086
+threads=4 n=5000
+# Face size 55 x 45
+# Reading small.bin
+# elapsed time [read_file]: 76 ms
+# elapsed time [compute_mean]: 16 ms
+# elapsed time [compute_shifted]: 15 ms
+# elapsed time [compute_covariance]: 15879 ms
+# Gflops/s = 3.85769
+threads=2 n=5000
+# Face size 55 x 45
+# Reading small.bin
+# elapsed time [read_file]: 78 ms
+# elapsed time [compute_mean]: 18 ms
+# elapsed time [compute_shifted]: 17 ms
+# elapsed time [compute_covariance]: 24558 ms
+# Gflops/s = 2.49435
+threads=20 n=15000
+# Face size 55 x 45
+# Reading small.bin
+# elapsed time [read_file]: 247 ms
+# elapsed time [compute_mean]: 30 ms
+# elapsed time [compute_shifted]: 24 ms
+# elapsed time [compute_covariance]: 19455 ms
+# Gflops/s = 9.44584
+threads=10 n=15000
+# Face size 55 x 45
+# Reading small.bin
+# elapsed time [read_file]: 342 ms
+# elapsed time [compute_mean]: 46 ms
+# elapsed time [compute_shifted]: 49 ms
+# elapsed time [compute_covariance]: 31049 ms
+# Gflops/s = 5.91867
+threads=4 n=15000
+# Face size 55 x 45
+# Reading small.bin
+# elapsed time [read_file]: 311 ms
+# elapsed time [compute_mean]: 36 ms
+# elapsed time [compute_shifted]: 30 ms
+# elapsed time [compute_covariance]: 38091 ms
+# Gflops/s = 4.82447
+threads=2 n=15000
+# Face size 55 x 45
+# Reading small.bin
+# elapsed time [read_file]: 307 ms
+# elapsed time [compute_mean]: 37 ms
+# elapsed time [compute_shifted]: 32 ms
+# elapsed time [compute_covariance]: 49450 ms
+# Gflops/s = 3.71625

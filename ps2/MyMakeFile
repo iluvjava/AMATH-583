@@ -1,0 +1,13 @@
+Macro := Bruh
+
+finaltarget: target1 target2
+		  echo "Creating finaltarget using subtarget 1 and subtarget 2"
+
+target1: target3
+		  echo "wtf"
+
+target2:
+		  echo "haha"
+
+target3: 
+		  echo $(Macro)

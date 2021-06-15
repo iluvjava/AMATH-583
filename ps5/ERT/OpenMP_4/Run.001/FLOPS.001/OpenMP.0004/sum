@@ -1,0 +1,16 @@
+    28.88 GFLOPs
+
+  2594.88 Weight
+
+   462.15 L1
+   250.79 L2
+    20.13 DRAM
+
+META_DATA
+ERT_VERSION  1.1.0
+HOSTNAME  ('e828f4ff7df7', [], ['172.17.0.2'])
+TIMESTAMP_DATA  1620700508.98
+CONFIG  {'ERT_WORKING_SET_MIN': ['1'], 'ERT_CFLAGS': ['-Ofast', '-march=native'], 'ERT_CC': ['cc'], 'ERT_MPI_CFLAGS': [], 'ERT_MPI_LDFLAGS': [], 'ERT_MEMORY_MAX': ['536870912', '#', '512MB'], 'ERT_LDFLAGS': [], 'ERT_LDLIBS': [], 'ERT_RUN': ['export', 'OMP_NUM_THREADS=ERT_OPENMP_THREADS', ';', './ERT_CODE'], 'ERT_FLOPS': ['1,4,16,64'], 'ERT_OPENMP_CFLAGS': ['-fopenmp'], 'ERT_MPI': ['False'], 'ERT_TRIALS_MIN': ['1'], 'ERT_DRIVER': ['driver1'], 'ERT_RESULTS': ['OpenMP_4'], 'ERT_OPENMP': ['True'], 'ERT_OPENMP_THREADS': ['1,2,4'], 'ERT_KERNEL': ['kernel1'], 'ERT_GPU': [False], 'ERT_LD': ['cc'], 'ERT_NUM_EXPERIMENTS': ['1'], 'ERT_OPENMP_LDFLAGS': ['-fopenmp'], 'ERT_ALIGN': ['64'], 'ERT_GNUPLOT': ['gnuplot']}
+FLOPS          1
+OPENMP_THREADS 4
+UNAME  ('Linux', 'e828f4ff7df7', '5.4.72-microsoft-standard-WSL2', '#1 SMP Wed Oct 28 23:40:43 UTC 2020', 'x86_64', 'x86_64')

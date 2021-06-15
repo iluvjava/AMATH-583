@@ -1,0 +1,870 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Outlines 10 0 R /PageLabels 20 0 R /PageMode /UseNone /Pages 16 0 R /Type /Catalog
+>>
+endobj
+9 0 obj
+<<
+/Author () /CreationDate (D:20210420145606+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210420145606+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (PS3 Questions) /Trapped /False
+>>
+endobj
+10 0 obj
+<<
+/Count 5 /First 11 0 R /Last 15 0 R /Type /Outlines
+>>
+endobj
+11 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 695.0236 0 ] /Next 12 0 R /Parent 10 0 R /Title (argv)
+>>
+endobj
+12 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 488.0236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (float vs double)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 609.0236 0 ] /Next 14 0 R /Parent 10 0 R /Prev 12 0 R /Title (Efficiency)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 186.0236 0 ] /Next 15 0 R /Parent 10 0 R /Prev 13 0 R /Title (All-Pairs)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 495.0236 0 ] /Parent 10 0 R /Prev 14 0 R /Title (About PS3)
+>>
+endobj
+16 0 obj
+<<
+/Count 3 /Kids [ 5 0 R 6 0 R 7 0 R ] /Type /Pages
+>>
+endobj
+17 0 obj
+<<
+/Length 7053
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 164.3649 0 Td (PS3 Questions) Tj T* -164.3649 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 707.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .676488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Add your answers to this file in plain text after each question. Leave a blank line between the text of the) Tj T* 0 Tw (question and the text of your answer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 674.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (argv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
+Q
+q
+1 0 0 1 62.69291 650.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (What does ) Tj /F3 10 Tf (argv[0]) Tj /F1 10 Tf ( always contain?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 650.0236 cm
+Q
+q
+1 0 0 1 62.69291 632.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (It always conatains ) Tj /F3 10 Tf (./filename.exe) Tj /F1 10 Tf (. It's the name of the executable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 626.0236 cm
+Q
+q
+1 0 0 1 62.69291 626.0236 cm
+Q
+q
+1 0 0 1 62.69291 614.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Which entry of ) Tj /F3 10 Tf (argv) Tj /F1 10 Tf ( holds the first argument passed to the program?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 614.0236 cm
+Q
+q
+1 0 0 1 62.69291 596.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The second entry, indexed with ) Tj /F3 10 Tf ([1]) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+Q
+q
+1 0 0 1 62.69291 578.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Which entry of ) Tj /F3 10 Tf (argv) Tj /F1 10 Tf ( holds the second argument passed to the program?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 578.0236 cm
+Q
+q
+1 0 0 1 62.69291 560.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The third entry, indexed with: ) Tj /F3 10 Tf ([2]) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 554.0236 cm
+Q
+q
+1 0 0 1 62.69291 554.0236 cm
+Q
+q
+1 0 0 1 62.69291 542.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How would you print just the last argument passed to a program?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 542.0236 cm
+Q
+q
+1 0 0 1 62.69291 500.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.298935 Tw 12 TL /F1 10 Tf 0 0 0 rg (The number of parameter is stored in the first argument of the ) Tj /F3 10 Tf (main) Tj /F1 10 Tf ( function of type int, usually in the) Tj T* 0 Tw -0.094773 Tw (name of ) Tj /F3 10 Tf (argc) Tj /F1 10 Tf (, therefore, to find the last input argument, I will do ) Tj /F3 10 Tf (argv[argc - 1]) Tj /F1 10 Tf (, which will give the pointer to) Tj T* 0 Tw (the string of the last element.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 467.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (float vs double) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 437.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .979318 Tw 12 TL /F1 10 Tf 0 0 0 rg (5. What is the difference \(ratio\) in execution times between single and double precision for ) Tj /F3 10 Tf (construction) Tj T* 0 Tw (with no optimization) Tj /F1 10 Tf (? Explain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 407.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.138012 Tw (For experiment of this part, we are testing on 5 instances for each input size of 2^23, 2^24, and 2^25. Each) Tj T* 0 Tw (is run 5 times to get a better estimate. The CPU I had for this experiment is ryzen 4900HS.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 377.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .152485 Tw 12 TL /F1 10 Tf 0 0 0 rg (The between the construction time with no optimization with different sizes of input between the floats and) Tj T* 0 Tw (the double is averaged out to be: ) Tj /F3 10 Tf (0.614760292436114) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 335.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL -0.043345 Tw (This is close to 0.5 and slightly above, this expected because floats has only 32 bits, 4 bytes to store in the) Tj T* 0 Tw .567488 Tw (memory while double takes 64 bits, 8 bytes to store. So the times it takes to allocated double is twice as) Tj T* 0 Tw (much as the floats.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 305.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .720651 Tw 12 TL /F1 10 Tf 0 0 0 rg (6. What is the difference \(ratio\) in execution times between single and double precision for ) Tj /F3 10 Tf (multiplication) Tj T* 0 Tw (with no optimization) Tj /F1 10 Tf (? Explain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 275.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 3.352126 Tw 12 TL /F1 10 Tf 0 0 0 rg (Without optimization, avaeraged ratio between the time it takes to multiply floats over doubles is) Tj T* 0 Tw /F3 10 Tf (0.923198319385292) Tj /F1 10 Tf (, averaged out over different inputs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 245.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.137633 Tw (The floating point operations takes the same number of clock cycles on x86. And it means that the) Tj T* 0 Tw (throughput for my CPU, zen 2 is the same for floats and doubles.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 215.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .979318 Tw 12 TL /F1 10 Tf 0 0 0 rg (7. What is the difference \(ratio\) in execution times between single and double precision for ) Tj /F3 10 Tf (construction) Tj T* 0 Tw (with optimization) Tj /F1 10 Tf (? Explain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 185.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 4.384983 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ratio between the time takes to construct floats over double with compiler optimization is) Tj T* 0 Tw /F3 10 Tf (0.4493755147684468) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 143.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.578735 Tw (This is slightly below a half which is expected because double has twice the memory bandwidth. The) Tj T* 0 Tw 2.661163 Tw (means the fetching of the instructions for the CPU will take double the amount of time for double) Tj T* 0 Tw (datatypes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 113.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .720651 Tw 12 TL /F1 10 Tf 0 0 0 rg (8. What is the difference \(ratio\) in execution times between single and double precision for ) Tj /F3 10 Tf (multiplication) Tj T* 0 Tw (with optimization) Tj /F1 10 Tf (? Explain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 83.02362 cm
+q
+BT 1 0 0 1 0 14 Tm .956905 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ratio of floats over double for multiplication with optimization is ) Tj /F3 10 Tf (0.3936700287599035) Tj /F1 10 Tf (, meaning that) Tj T* 0 Tw (the time takes for float to mulitply is less than a half of the time taken for double.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+18 0 obj
+<<
+/Length 7860
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL -0.074223 Tw (This ratio is slightly below a half. This is expected and I think all the perfomance improvement is gained via) Tj T* 0 Tw 1.18881 Tw (cache optimizaiton for both data types, and because occupies half of what double is, it has less cache) Tj T* 0 Tw (misses when computing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Take note that, because both has optimization of ) Tj /F3 10 Tf (O3) Tj /F1 10 Tf (, it's likely that both will get SIMD vectorization.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.684651 Tw (9. What is the difference \(ratio\) in execution times for double precision multiplication with and without) Tj T* 0 Tw (optimization? Explain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .47284 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ration is: ) Tj /F3 10 Tf (0.6662649953910553) Tj /F1 10 Tf (. It's less and the performance gain is obtained by cache optimization) Tj T* 0 Tw (and SIMD optimization at the same time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .845542 Tw (I am not sure what to expect exactly becaues in this cause the perfomance gain is obtained from better) Tj T* 0 Tw (SIMD instructions AND cache optimization.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Efficiency) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (10.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.07216 Tw (If you double the problem size for matrix-matrix product, how many more operations will matrix-matrix) Tj T* 0 Tw (product perform?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+Q
+q
+1 0 0 1 62.69291 522.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.048221 Tw (The complexity is N^3, therefore, we will do 7 times more works because when scaling up the problem) Tj T* 0 Tw (size by 2, the complexity scaled up by 8.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+Q
+q
+1 0 0 1 62.69291 492.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (11.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.30061 Tw (If the time to perform a given operation is constant, when you double the problem size for) Tj T* 0 Tw (matrix-matrix product, how much more time will be required to compute the answer?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 492.0236 cm
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (7 Times more, becase we assume that each operations is constant amount of time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 468.0236 cm
+Q
+q
+1 0 0 1 62.69291 468.0236 cm
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (12.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .101163 Tw 12 TL /F1 10 Tf 0 0 0 rg (What ratio did you see when doubling the problem size when mmtime called ) Tj /F3 10 Tf (mult_0) Tj /F1 10 Tf (? \(Hint, it may be) Tj T* 0 Tw (larger than what pure operation count would predict.\) Explain.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+Q
+q
+1 0 0 1 62.69291 378.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.532093 Tw 12 TL /F1 10 Tf 0 0 0 rg (Size of 256 yields ) Tj /F3 10 Tf (28ms) Tj /F1 10 Tf ( on mult_0, 512 yields ) Tj /F3 10 Tf (998) Tj /F1 10 Tf (, the ratio is ) Tj /F3 10 Tf (35.6) Tj /F1 10 Tf (. If, things are perfect, we should) Tj T* 0 Tw .786457 Tw (expect 7 times, but it's not perfect because the Matirix is Column major, the memory locality is reduced.) Tj T* 0 Tw .259985 Tw (Each multiplication requires moving to find memory addresses that are in totally different places and it will) Tj T* 0 Tw .948935 Tw (take longer for a larger matrix where the memory addresses are spread out to 4 times the space in the) Tj T* 0 Tw (memory.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (13.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.044985 Tw 12 TL /F1 10 Tf 0 0 0 rg (What raio did you see when doubling the problem size when mmtime called ) Tj /F3 10 Tf (mult_3) Tj /F1 10 Tf (? Was this the) Tj T* 0 Tw -0.083864 Tw (same for ) Tj /F3 10 Tf (mult_0) Tj /F1 10 Tf (? Referring to the function in amath583.cpp, what optimizations are implemented and) Tj T* 0 Tw (what kinds of performance benefits might they provide?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+Q
+q
+1 0 0 1 62.69291 270.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.473735 Tw 12 TL /F1 10 Tf 0 0 0 rg (Optimization used for ) Tj /F3 10 Tf (mul_3) Tj /F1 10 Tf ( involved 32 by 32 blocks on the matrices, which reduces the Spatial and) Tj T* 0 Tw .88561 Tw (Temporal locality at the same time, Hoisting is used for better vectorization on the compiler level, which) Tj T* 0 Tw .831984 Tw (introduces some micro optimization. This reduces the amount of time increased for each flops when the) Tj T* 0 Tw .46683 Tw (size of the matrix increases. It won't change the big O, 2 method gets closer when inputs gets larger, but) Tj T* 0 Tw (they will be a constant differece because of the cache misses and lack of advance SIMD for ) Tj /F3 10 Tf (mul_0) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 216.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .636946 Tw 12 TL /F1 10 Tf 0 0 0 rg (Inputs size of 256, 512 is used for testing. ) Tj /F3 10 Tf (5 ms) Tj /F1 10 Tf ( and ) Tj /F3 10 Tf (88 ms) Tj /F1 10 Tf ( for the ) Tj /F3 10 Tf (mul_3) Tj /F1 10 Tf ( and ) Tj /F3 10 Tf (26) Tj /F1 10 Tf ( and ) Tj /F3 10 Tf (954 ms) Tj /F1 10 Tf ( for ) Tj /F3 10 Tf (mul_0) Tj /F1 10 Tf (.) Tj T* 0 Tw 1.38683 Tw (The ratio is about: 17.6 for ) Tj /F3 10 Tf (mul_3) Tj /F1 10 Tf ( and 36 for ) Tj /F3 10 Tf (mul_0) Tj /F1 10 Tf (. Notice how the use of Hoisting and Blocks Tiling) Tj T* 0 Tw .345988 Tw (improve the constant growth factor for each flops as the size of the matrix grows from small that it can be) Tj T* 0 Tw (stored in the L3 cache to when, the matrix can't fit there.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 210.0236 cm
+Q
+q
+1 0 0 1 62.69291 210.0236 cm
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (14.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (\(Extra credit.\) Try also with ) Tj /F3 10 Tf (mult_1) Tj /F1 10 Tf ( and ) Tj /F3 10 Tf (mult_2) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (All-Pairs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 153.0236 cm
+Q
+q
+1 0 0 1 62.69291 153.0236 cm
+Q
+q
+1 0 0 1 62.69291 105.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (15.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.839213 Tw (What do you observe about the different approaches to doing the similarity computation? Which) Tj T* 0 Tw .294724 Tw (algorithm \(optimizations\) are most effective? Does it pay to make a transpose of A vs a copy of A vs) Tj T* 0 Tw 2.454104 Tw (just passing in A itself. What about passing in A twice vs passing it in once \(mult_trans_3 vs) Tj T* 0 Tw (mult_trans_4\)?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 105.0236 cm
+Q
+ 
+endstream
+endobj
+19 0 obj
+<<
+/Length 5086
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .294269 Tw (Different approaches results in different flops/s. However all of the mappraoches appraoche the the same) Tj T* 0 Tw (amount of flops as the input size of the matrix gets larger.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Thst most affective appraoch is ) Tj /F3 10 Tf (m_t_2) Tj /F1 10 Tf (, and ) Tj /F3 10 Tf (m_t_5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Passing A directly results in better performance, but it's not extremely significant.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (m_t_3\(A, A\)) Tj /F1 10 Tf ( and ) Tj /F3 10 Tf (m_t_4\(A\)) Tj /F1 10 Tf ( has very similar performance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (16.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .09881 Tw (What is the best performance over all the algorithms that you observed for the case of 1024 images?) Tj T* 0 Tw 1.24528 Tw (What would the execution time be for 10 times as many images? For 60 times as many images?) Tj T* 0 Tw .584988 Tw (\(Hint: the answer is not cubic but still potentially a problem.\) What if we wanted to do, say 56 by 56) Tj T* 0 Tw (images instead of 28 by 28?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .223735 Tw 12 TL /F1 10 Tf 0 0 0 rg (The best performance for 2014 is ) Tj /F3 10 Tf (m_t_5) Tj /F1 10 Tf (. The implementations is tiling, without blocks, but we only focous) Tj T* 0 Tw .307045 Tw (on the upper trigular part first, and then copying the lower triagular from the upper triangular, because the) Tj T* 0 Tw (resulting matrix is symmetric.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.031412 Tw (The execution time grows quadratiacally. Becauese VV^T is the action of taking cross product between) Tj T* 0 Tw .684651 Tw (every 2 images. Because each images is fixed sized, therefore complexity grows quadratically wrt to the) Tj T* 0 Tw (number of images, assuming dot produt between each image is a constant.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.793735 Tw (When the size of the image increased, we have bit problem because the number of pixels grows) Tj T* 0 Tw 3.663735 Tw (qudratically as the scale \(or size\). If the number of images is fixed, then the complexity grows) Tj T* 0 Tw (quadratiacally.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (About PS3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+Q
+q
+1 0 0 1 62.69291 450.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (17.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The most important thing I learned from this assignment was ...) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 450.0236 cm
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (O3 improve performance and I don't undersand the detail.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .311318 Tw (Declares variables outside the forloops and assigning them after the for loop speeds things up, especially) Tj T* 0 Tw (it accumulates a lot of values.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tiling and seems to be the best strategy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Spatial locality can be made better by considering matrix multiplications as blocks of sub matrices.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 360.0236 cm
+Q
+q
+1 0 0 1 62.69291 360.0236 cm
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (18.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (One thing I am still not clear on is.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+Q
+q
+1 0 0 1 62.69291 330.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (why not:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 300.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.030512 Tw (I don't understand compiler, c++, and the details, but I think I have idea on what the assignment is trying to) Tj T* 0 Tw (teach.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Why since ) Tj /F3 10 Tf (C\(i, j\)) Tj /F1 10 Tf ( returns a reference, why not declare ) Tj /F3 10 Tf (double) Tj (& t = C\(i, j\)) Tj /F1 10 Tf ( before we start accumulating on ) Tj /F3 10 Tf (t) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+20 0 obj
+<<
+/Nums [ 0 21 0 R 1 22 0 R 2 23 0 R ]
+>>
+endobj
+21 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+22 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+23 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+xref
+0 24
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000458 00000 n 
+0000000663 00000 n 
+0000000868 00000 n 
+0000001073 00000 n 
+0000001178 00000 n 
+0000001448 00000 n 
+0000001522 00000 n 
+0000001627 00000 n 
+0000001756 00000 n 
+0000001880 00000 n 
+0000002003 00000 n 
+0000002113 00000 n 
+0000002185 00000 n 
+0000009290 00000 n 
+0000017202 00000 n 
+0000022340 00000 n 
+0000022399 00000 n 
+0000022433 00000 n 
+0000022467 00000 n 
+trailer
+<<
+/ID 
+[<bee7db9ca17cdb0d52c097ba5988df78><bee7db9ca17cdb0d52c097ba5988df78>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 9 0 R
+/Root 8 0 R
+/Size 24
+>>
+startxref
+22501
+%%EOF

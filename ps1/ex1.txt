@@ -1,0 +1,19 @@
+What is the host name of the computer as reported by your linux environment? (You will need to find the right Linux command to execute for this. I suggest searching the web.)
+The name of the PC I used is: DESKTOP-CEGM6SF as displayed by executing `hostname` in the shell. 
+
+How would you specify the name of an output file when you use the compiler if you wanted the executable to have a name other than a.out?
+The name of the output file from the compiler is specified by the flag `-o`, so if I want the output file to have name "test", then I use the command `c++ -std=c++11 sin6pi.cpp -o test`. The way I found this out is by using the command `clang --version` under the  `#Driver Option`. 
+
+What happens if you type `a.out` instead of `./a.out` to run your program? What is the difference (operationally) between the two statements?
+The output for executing command `a.out` is: `a.out:command not found`. The difference is that, when executing without the `./` the OS searches inside $PATH to look for executable, and `a.out` is not in there, but the symbol `./a.out` let it searches inside the current directory and execute the compiled, executable file. 
+
+What does clang print when you run :"$ c++ --version"? 
+The output is: 
+clang version 10.0.0-4ubuntu1 
+Target: x86_64-pc-linux-gnu
+Thread model: posix
+InstalledDir: /usr/bin 
+Which is executed on terminal of Ubuntu 20.04, under WSL in vs-code
+
+In the example program, the i and N variables are said to be size_t. What is a size_t?
+According to: "cppforum.com", `size_t` is a type, and it's an `unsigned integer as the result of the sizeof operator.`. Using my language, it's a referable type in the c++ programming language.

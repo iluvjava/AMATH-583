@@ -1,0 +1,37 @@
+nodes=1 tasks=10
+# Face size 55 x 45
+# elapsed time [read_file]: 1042 ms
+# elapsed time [scattering]: 194 ms
+# elapsed time [compute_mean]: 156 ms
+# elapsed time [compute_shifted]: 93 ms
+# elapsed time [reduce]: 23 ms
+# elapsed time [compute_covariance]: 9996 ms
+# Gflops/s = 61.2808
+nodes=2 tasks=10
+# Face size 55 x 45
+# elapsed time [read_file]: 1048 ms
+# elapsed time [scattering]: 238 ms
+# elapsed time [compute_mean]: 64 ms
+# elapsed time [compute_shifted]: 46 ms
+# elapsed time [reduce]: 402 ms
+# elapsed time [compute_covariance]: 6617 ms
+# Gflops/s = 92.5741
+nodes=4 tasks=10
+# Face size 55 x 45
+# elapsed time [read_file]: 1034 ms
+# elapsed time [scattering]: 306 ms
+# elapsed time [compute_mean]: 37 ms
+# elapsed time [compute_shifted]: 29 ms
+# elapsed time [reduce]: 1371 ms
+# elapsed time [compute_covariance]: 3889 ms
+# Gflops/s = 157.512
+nodes=8 tasks=10
+# Face size 55 x 45
+# elapsed time [read_file]: 1078 ms
+# elapsed time [scattering]: 458 ms
+# elapsed time [compute_mean]: 18 ms
+# elapsed time [compute_shifted]: 13 ms
+# elapsed time [reduce]: 274 ms
+# elapsed time [compute_covariance]: 1585 ms
+# Gflops/s = 386.475
+

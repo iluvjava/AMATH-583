@@ -1,0 +1,24 @@
+threads=10 n=5000
+# Face size 55 x 45
+# Reading small.bin
+# elapsed time [read_file]: 104 ms
+# elapsed time [compute_mean]: 10 ms
+# elapsed time [compute_shifted]: 7 ms
+# elapsed time [compute_covariance]: 7658 ms
+# Gflops/s = 7.99899
+threads=20 n=5000
+# Face size 55 x 45
+# Reading small.bin
+# elapsed time [read_file]: 144 ms
+# elapsed time [compute_mean]: 10 ms
+# elapsed time [compute_shifted]: 8 ms
+# elapsed time [compute_covariance]: 2074 ms
+# Gflops/s = 29.5353
+threads=20 n=50000
+# Face size 55 x 45
+# Reading small.bin
+# elapsed time [read_file]: 913 ms
+# elapsed time [compute_mean]: 100 ms
+# elapsed time [compute_shifted]: 83 ms
+# elapsed time [compute_covariance]: 21488 ms
+# Gflops/s = 28.5072

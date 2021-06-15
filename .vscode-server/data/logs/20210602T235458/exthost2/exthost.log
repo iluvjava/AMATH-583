@@ -1,0 +1,22 @@
+[2021-06-02 23:55:07.849] [exthost] [info] extension host started
+[2021-06-02 23:55:07.902] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-06-02 23:55:07.903] [exthost] [info] ExtensionService#loadCommonJSModule file:///mnt/c/Users/victo/Documents/amath583/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/extension-editing/dist/extensionEditingMain
+[2021-06-02 23:55:07.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-06-02 23:55:07.923] [exthost] [info] ExtensionService#loadCommonJSModule file:///mnt/c/Users/victo/Documents/amath583/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/markdown-language-features/dist/extension
+[2021-06-02 23:55:07.957] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-02 23:55:07.957] [exthost] [info] ExtensionService#loadCommonJSModule file:///mnt/c/Users/victo/Documents/amath583/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/debug-auto-launch/dist/extension
+[2021-06-02 23:55:07.962] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-02 23:55:07.962] [exthost] [info] ExtensionService#loadCommonJSModule file:///mnt/c/Users/victo/Documents/amath583/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/git/dist/main
+[2021-06-02 23:55:08.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-02 23:55:08.221] [exthost] [info] ExtensionService#loadCommonJSModule file:///mnt/c/Users/victo/Documents/amath583/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/github/dist/extension.js
+[2021-06-02 23:55:08.619] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-02 23:55:08.620] [exthost] [info] ExtensionService#loadCommonJSModule file:///mnt/c/Users/victo/Documents/amath583/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-02 23:55:08.641] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-02 23:55:08.642] [exthost] [info] ExtensionService#loadCommonJSModule file:///mnt/c/Users/victo/Documents/amath583/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-02 23:55:08.647] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-02 23:55:08.647] [exthost] [info] ExtensionService#loadCommonJSModule file:///mnt/c/Users/victo/Documents/amath583/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-02 23:55:08.650] [exthost] [info] eager extensions activated
+[2021-06-02 23:55:08.737] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-02 23:55:08.737] [exthost] [info] ExtensionService#loadCommonJSModule file:///mnt/c/Users/victo/Documents/amath583/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-03 04:09:48.585] [exthost] [info] extension host terminating: renderer disconnected for too long (1)
+[2021-06-03 04:09:49.604] [exthost] [info] exiting with code 0

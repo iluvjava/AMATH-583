@@ -1,0 +1,141 @@
+{
+   "empirical": {
+      "gbytes": {
+         "data": [
+            [
+               "L1", 
+               87.68
+            ], 
+            [
+               "L2", 
+               62.6
+            ], 
+            [
+               "L3", 
+               43.1
+            ], 
+            [
+               "DRAM", 
+               13.07
+            ]
+         ], 
+         "metadata": {
+            "TIMESTAMP_DATA": 1620609621.0, 
+            "FLOPS": 1, 
+            "TIMESTAMP_DB": 1620697432.380554
+         }
+      }, 
+      "gflops": {
+         "data": [
+            [
+               "GFLOPs", 
+               41.56
+            ]
+         ], 
+         "metadata": {
+            "TIMESTAMP_DATA": 1620609758.94, 
+            "FLOPS": 64, 
+            "TIMESTAMP_DB": 1620697432.380395
+         }
+      }, 
+      "metadata": {
+         "ERT_VERSION": "1.1.0", 
+         "OPENMP_THREADS": 2, 
+         "HOSTNAME": [
+            "5a481ab6924f", 
+            [], 
+            [
+               "172.17.0.4"
+            ]
+         ], 
+         "CONFIG": {
+            "ERT_WORKING_SET_MIN": [
+               "1"
+            ], 
+            "ERT_CFLAGS": [
+               "-Ofast", 
+               "-march=native"
+            ], 
+            "ERT_CC": [
+               "cc"
+            ], 
+            "ERT_MPI_CFLAGS": [], 
+            "ERT_MPI_LDFLAGS": [], 
+            "ERT_MEMORY_MAX": [
+               "268435456", 
+               "#", 
+               "256MB"
+            ], 
+            "ERT_LDFLAGS": [], 
+            "ERT_LDLIBS": [], 
+            "ERT_RUN": [
+               "export", 
+               "OMP_NUM_THREADS=ERT_OPENMP_THREADS", 
+               ";", 
+               "./ERT_CODE"
+            ], 
+            "ERT_FLOPS": [
+               "1,4,16,64"
+            ], 
+            "ERT_OPENMP_CFLAGS": [
+               "-fopenmp"
+            ], 
+            "ERT_MPI": [
+               "False"
+            ], 
+            "ERT_TRIALS_MIN": [
+               "1"
+            ], 
+            "ERT_DRIVER": [
+               "driver1"
+            ], 
+            "ERT_RESULTS": [
+               "OpenMP_2"
+            ], 
+            "ERT_OPENMP": [
+               "True"
+            ], 
+            "ERT_OPENMP_THREADS": [
+               "1,2"
+            ], 
+            "ERT_KERNEL": [
+               "kernel1"
+            ], 
+            "ERT_GPU": [
+               false
+            ], 
+            "ERT_LD": [
+               "cc"
+            ], 
+            "ERT_NUM_EXPERIMENTS": [
+               "1"
+            ], 
+            "ERT_OPENMP_LDFLAGS": [
+               "-fopenmp"
+            ], 
+            "ERT_ALIGN": [
+               "64"
+            ], 
+            "ERT_GNUPLOT": [
+               "gnuplot"
+            ]
+         }, 
+         "UNAME": [
+            "Linux", 
+            "5a481ab6924f", 
+            "5.4.72-microsoft-standard-WSL2", 
+            "#1 SMP Wed Oct 28 23:40:43 UTC 2020", 
+            "x86_64", 
+            "x86_64"
+         ]
+      }
+   }, 
+   "spec": {
+      "gbytes": {
+         "data": []
+      }, 
+      "gflops": {
+         "data": []
+      }
+   }
+}

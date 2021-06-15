@@ -1,0 +1,175 @@
+Looking for git in: git
+Using git 2.17.1 from git
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/.vscode' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/1048576' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/AOSMatrix.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/COOMatrix.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/CSCMatrix.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/CSRMatrix.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/ERT' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/Makefile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/Matrix.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/Questions.rst' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/Timer.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/Vector.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/amath583.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/amath583.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/amath583.o' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/amath583IO.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/amath583IO.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/amath583IO.o' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/amath583sparse.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/amath583sparse.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/amath583sparse.o' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/answers' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/bonnie_and_clyde.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/bonnie_and_clyde_function_object.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/catch.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/cnorm.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/cnorm.exe' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/cnorm.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/cnorm.log' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/cnorm.o' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/cnorm_test.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/data' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/fnorm.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/fnorm.exe' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/fnorm.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/fnorm.log' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/fnorm.o' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/fnorm_test.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/matvec.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/matvec_test.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/mmio_to_bin.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/norm_order.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/norm_test.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/norm_utils.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pagerank.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pagerank.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pagerank_test.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/parsedata.py' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pmatvec.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pmatvec_test.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pmatvec_test.exe' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pmatvec_test.o' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pnorm.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pnorm.exe' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pnorm.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pnorm.log' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pnorm.o' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pnorm_small.log' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pnorm_test.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/pr.py' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/ps5.tar.gz' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/rnorm.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/rnorm.exe' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/rnorm.hpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/rnorm.log' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/rnorm.o' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/rnorm_test.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/verify-all.bash' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/verify-make.bash' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/verify-opts.bash' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/verify-run.bash' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5/verify-test.bash' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/mnt/c/Users/victo/Documents/amath583/ps5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /mnt)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
